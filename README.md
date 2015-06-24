@@ -1,6 +1,11 @@
 #Hashpass
 Makes it easy to use hashes as passwords. Supported hashes (md5,sha1,sha256,sha512). There is an accompanying android app which does the same in F-Droid
 
+![Popup Panel](https://addons.cdn.mozilla.net/user-media/previews/full/160/160466.png?modified=1435162169)
+
+![Context Menu Item](https://addons.cdn.mozilla.net/user-media/previews/full/160/160464.png?modified=1435162169)
+
+
 ### Features
 
 * Option to reveal or hide text entry
@@ -16,3 +21,10 @@ Note : If you use the clipboard method be sure to clear it after you paste it. A
 ### Attribution
 
 * Uses [jshashes](https://github.com/h2non/jshashes) by [Tomás Aparicio](https://github.com/h2non)
+
+### Donations
+
+If you would like to donate, you can do so at the
+[HashPass mozilla addons page](https://addons.mozilla.org/en-US/firefox/addon/hashpass-firefox/) or with bitcoin at *1L44pgmZpeMsWsd24WgN6SJjEUARG5eY6G* or [
+![Flattr this](https://button.flattr.com/flattr-badge-large.png)
+](https://flattr.com/submit/auto?user_id=dillbyrne&url=https%3A%2F%2Fgithub.com%2Fdillbyrne%2Frandom-agent-spoofer)
