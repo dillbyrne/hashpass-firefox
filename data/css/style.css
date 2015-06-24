@@ -1,0 +1,23 @@
+p {
+	margin: .2em 0;
+}
+
+#text{
+	width: 74%;
+}
+
+#output{
+	width: 100%;
+}
+
+.hidden {
+	visibility: hidden;
+}
+
+#create{
+	float:left
+}
+
+#copy{
+	float:right;
+}
