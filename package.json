@@ -1,8 +1,8 @@
 {
-  "title": "HashPass",
-  "name": "hashpass",
+  "title": "HashPass Firefox",
+  "name": "hashpass-firefox",
   "id": "hashpass@jetpack",
-  "version": "1.0",
+  "version": "1.1",
   "description": "Makes it easy to use hashes as passwords, affording ease of recall and effectiveness in password strength. Supported hashes (md5,sha1,sha256,sha512). There is an also an android app of the same name to accompany it. You can find it in the F-Droid repository",
   "main": "index.js",
   "homepage":"https://github.com/dillbyrne/hashpass-firefox", 

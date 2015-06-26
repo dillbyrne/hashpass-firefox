@@ -48,7 +48,11 @@ document.body.addEventListener('click', function(e) {
 		hashText();
 	
 	else if(e.target.id == 'copy'){
-		self.port.emit('copy',document.getElementById('output').value);
+
+		self.port.emit('hashAndOrCopy',
+			document.getElementById('hash')[document.getElementById('hash').selectedIndex].value,
+			document.getElementById('text').value,
+			document.getElementById('output').value);
 	}
 
 }, false);
